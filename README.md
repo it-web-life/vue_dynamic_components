@@ -1,5 +1,7 @@
 # vue_dynamic_components
 
+詳細な記事: [Vueで動的コンポーネントの使い方 【is属性やkeep-aliveの利用】](https://it-web-life.com/vue_dynamic_components/)
+
 ## Project setup
 ```
 yarn install
